@@ -1,7 +1,7 @@
 
-#Projeto Módulo 04 - Grupo 08
+# Projeto Módulo 04 - Grupo 08
 
-#Data Analytics - Turma 12 - Resilia
+# Data Analytics - Turma 12 - Resilia
 
 Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol
 
