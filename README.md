@@ -9,7 +9,7 @@
   <a href="## **Sobre o projeto**">Sobre o projeto</a>
   <a href="## **Equipe**">Equipe</a>
   <a href="#analise">Análise Exploratória</a>
-  < href="### **Objetivo da análise**"> Objetivo da analise</a>
+  <a href="### **Objetivo da análise**"> Objetivo da analise</a>
   </p>
 
 
