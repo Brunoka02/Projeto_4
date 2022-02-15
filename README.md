@@ -1,9 +1,9 @@
 
 # <p align="center"> Projeto Módulo 04 - Grupo 08 
 
-## Data Analytics - Turma 12 - Resilia
+## <p align="center"> Data Analytics - Turma 12 - Resilia
 
-![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png)
+<p align="center"> ![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png)
 
 **Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol**
 
