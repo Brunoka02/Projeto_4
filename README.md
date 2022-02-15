@@ -3,9 +3,6 @@
 
 ## <p align="center"> Data Analytics - Turma 12 - Resilia
 
-![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png)
-  
-
 
 ## **Sobre o projeto**
 <p>
