@@ -29,6 +29,7 @@ A Agência Nacional do Petróleo, Biocombustíveis e Gás Natural criada em 1997
 A agência é a responsável pela emissão de registros para postos de combustíveis e realiza semanalmente uma pesquisa nacional de preços dos combustíveis, com o objetivo de orientar os consumidores.
 A ANP mantém o Banco de Dados de Exploração e Produção (BDEP), onde são publicados dados sobre a indústrias do petróleo, biocombustível e gás natural.
 
+
 ![anp](https://github.com/Brunoka02/Projeto_4/blob/main/Anp-logo-3menor.png)
 
 ### **Objetivo da análise**
