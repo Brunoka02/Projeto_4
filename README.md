@@ -6,22 +6,23 @@
 ![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png)
   
 <p align="center">
-  <a href="#sobre">Sobre</a>
+  <a href="#sobre">Sobre o projeto</a>
   <a href="#equipe">Equipe</a>
   <a href="#analise">Análise Exploratória</a>
   </p>
 
 
-Sobre
-
+##**Sobre o projeto**
+<p>
 **Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol**
 
 Fonte de Dados Utilizada:
 Portal Brasileiro de Dados Abertos 
 Base de Dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP referente a série história de junho e julho de 2021 contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
+</p>
 
-Equipe
-
+##**Equipe**
+<p>
 [Bruno Mendes](https://github.com/Brunoka02)
 
 [Carla Lanzillotta](https://github.com/CarlaLanzillotta)
@@ -31,7 +32,9 @@ Equipe
 [Jonatas]
 
 [Reinaldo](https://github.com/reinaldos)
-
+</p>
+  
+  
 ### **O que é ANP**
 
 A Agência Nacional do Petróleo, Biocombustíveis e Gás Natural criada em 1997 é responsável pelas regras e resoluções de exploração, produção, refino, comercialização e transporte do petróleo e seus derivados no Brasil. Além do petróleo, a ANP regula também as atividades das indústrias de gás natural e biocombustíveis.
