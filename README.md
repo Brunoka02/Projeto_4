@@ -1,5 +1,5 @@
 
-# <p align="center"> Projeto Módulo 04 - Grupo 08 <?p>
+# <p align="center"> Projeto Módulo 04 - Grupo 08 
 
 ## Data Analytics - Turma 12 - Resilia
 
