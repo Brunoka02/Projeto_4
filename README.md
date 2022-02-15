@@ -5,16 +5,17 @@
 
 
 ## **Sobre o projeto**
-<p>
-Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol
 
-Fonte de Dados Utilizada:
-Portal Brasileiro de Dados Abertos 
-Base de Dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP referente a série história de junho e julho de 2021 contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
-</p>
+Este projeto é uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol no Brasil. 
+Ele foi desenvolvido como trabalho de final do módulo 4 do curso de Data Analytics da Resilia Educação.  
 
-## **Equipe**
-<p>
+A fonte de dados utilizada foi o Portal Brasileiro de Dados Abertos, da Base de Dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP referente a série história de junho e julho de 2021 contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
+
+Para o desenvolvimento em grupo em Python usamos o Google Colab.
+
+
+## **Nossa Equipe**
+
 [Bruno Mendes](https://github.com/Brunoka02)
 
 [Carla Lanzillotta](https://github.com/CarlaLanzillotta)
@@ -24,7 +25,7 @@ Base de Dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
 [Jonatas]
 
 [Reinaldo](https://github.com/reinaldos)
-</p>
+
   
   
 ### **O que é ANP**
