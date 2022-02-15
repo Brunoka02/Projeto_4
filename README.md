@@ -3,6 +3,8 @@
 
 ## Data Analytics - Turma 12 - Resilia
 
+![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor.png)
+
 **Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol**
 
 Fonte de Dados Utilizada:
@@ -26,6 +28,8 @@ Nossa Equipe:
 A Agência Nacional do Petróleo, Biocombustíveis e Gás Natural criada em 1997 é responsável pelas regras e resoluções de exploração, produção, refino, comercialização e transporte do petróleo e seus derivados no Brasil. Além do petróleo, a ANP regula também as atividades das indústrias de gás natural e biocombustíveis.
 A agência é a responsável pela emissão de registros para postos de combustíveis e realiza semanalmente uma pesquisa nacional de preços dos combustíveis, com o objetivo de orientar os consumidores.
 A ANP mantém o Banco de Dados de Exploração e Produção (BDEP), onde são publicados dados sobre a indústrias do petróleo, biocombustível e gás natural.
+
+![anp](https://github.com/Brunoka02/Projeto_4/blob/main/Anp-logo-3menor.png)
 
 ### **Objetivo da análise**
 Esta análise tem como objetivo observar a variação de preços de venda de combustíveis reltivos ao período de junho e julho de 2021 para compreender melhor se dados como localidade e tranporte podem interferir nos valores finais de venda dos produtos. Além de ajudar a elaborar meios para diminuição de custos de transporte.
