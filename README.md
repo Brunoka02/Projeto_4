@@ -2,6 +2,7 @@
 # <p align="center"> Projeto Módulo 04 - Grupo 08 
 
 ## <p align="center"> Data Analytics - Turma 12 - Resilia
+  
 
 
 ## **Sobre o projeto**
@@ -13,6 +14,10 @@ A fonte de dados utilizada foi o Portal Brasileiro de Dados Abertos, da Base de 
 
 ## **Tecnologias e ferramentas utilizadas**
   
+  ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![markdowm](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VQKz_G_0E1aWVDdx6PJsTLT10oMhsRE6)
+    
   * Python
   * Google Colab 
 
