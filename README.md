@@ -5,12 +5,6 @@
 
 ![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png)
   
-<p align="center">
-  <a href="## **Sobre o projeto**">Sobre o projeto</a>
-  <a href="## **Equipe**">Equipe</a>
-  <a href="#analise">Análise Exploratória</a>
-  <a href="### **Objetivo da análise**"> Objetivo da analise</a>
-  </p>
 
 
 ## **Sobre o projeto**
