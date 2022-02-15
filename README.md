@@ -3,7 +3,7 @@
 
 ## Data Analytics - Turma 12 - Resilia
 
-Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol
+-**Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol
 
 Fonte de Dados Utilizada:
 Portal Brasileiro de Dados Abertos 
