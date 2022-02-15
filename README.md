@@ -9,12 +9,13 @@
   <a href="## **Sobre o projeto**">Sobre o projeto</a>
   <a href="## **Equipe**">Equipe</a>
   <a href="#analise">Análise Exploratória</a>
+  < href="### **Objetivo da análise**"> Objetivo da analise</a>
   </p>
 
 
 ## **Sobre o projeto**
 <p>
-**Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol**
+Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol
 
 Fonte de Dados Utilizada:
 Portal Brasileiro de Dados Abertos 
