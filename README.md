@@ -6,13 +6,13 @@
 ![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png)
   
 <p align="center">
-  <a href="#sobre">Sobre o projeto</a>
-  <a href="#equipe">Equipe</a>
+  <a href="## **Sobre o projeto**">Sobre o projeto</a>
+  <a href="## **Equipe**">Equipe</a>
   <a href="#analise">Análise Exploratória</a>
   </p>
 
 
-##**Sobre o projeto**
+## **Sobre o projeto**
 <p>
 **Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol**
 
@@ -21,7 +21,7 @@ Portal Brasileiro de Dados Abertos
 Base de Dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP referente a série história de junho e julho de 2021 contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
 </p>
 
-##**Equipe**
+## **Equipe**
 <p>
 [Bruno Mendes](https://github.com/Brunoka02)
 
