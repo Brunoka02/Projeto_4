@@ -3,7 +3,16 @@
 
 ## <p align="center"> Data Analytics - Turma 12 - Resilia
 
-![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png) <p align="center">
+<p align="center">
+![resilia](https://github.com/Brunoka02/Projeto_4/blob/main/logoresiliamenor2.png)
+  
+<p align="center">
+  <a href="#sobre">Sobre</a>
+  <a href="#equipe">Equipe</a>
+  <a href="#analise">Análise Exploratória</a>
+  </p>
+
+
 
 **Análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol**
 
