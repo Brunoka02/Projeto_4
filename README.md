@@ -11,7 +11,10 @@ Ele foi desenvolvido como trabalho de final do módulo 4 do curso de Data Analyt
 
 A fonte de dados utilizada foi o Portal Brasileiro de Dados Abertos, da Base de Dados da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP referente a série história de junho e julho de 2021 contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil.
 
-Para o desenvolvimento em grupo em Python usamos o Google Colab.
+## **Tecnologias e ferramentas utilizadas**
+  
+  * Python
+  * Google Colab 
 
 
 ## **Nossa Equipe**
