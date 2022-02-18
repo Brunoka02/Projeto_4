@@ -66,11 +66,11 @@ display(junho_21.dtypes)
 Foram concatenados os dois datasets para que fosse possível unificar os valores referentes aos dois meses apresentados. 
 Em seguida realizada a análise exploratória e limpeza de dados.  
     
-![import12](https://github.com/Brunoka02/Projeto_4/blob/main/12.png)
+![import12](https://github.com/Brunoka02/Projeto_4/blob/main/20.png)
 
 Além da correção do valor dos indices após a concatenação  
   
-![import1](https://github.com/Brunoka02/Projeto_4/blob/main/20.png)
+![import1](https://github.com/Brunoka02/Projeto_4/blob/main/13.png)
  
 Conversão de tipos do dataset
 
