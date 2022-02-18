@@ -45,7 +45,7 @@ A ANP mantém o Banco de Dados de Exploração e Produção (BDEP), onde são pu
 ![anp](https://github.com/Brunoka02/Projeto_4/blob/main/Anp-logo-3menor.png)
 
 ### **Objetivo da análise**
-Esta análise tem como objetivo observar a variação de preços de venda de combustíveis reltivos ao período de junho e julho de 2021 para compreender melhor se dados como localidade e tranporte podem interferir nos valores finais de venda dos produtos. Além de ajudar a elaborar meios para diminuição de custos de transporte. Esses dados estão disponíveis no Portal Brasileiro de Dados Abertos - https://dados.gov.br/anp.
+Esta análise tem como objetivo observar a variação de preços de venda de combustíveis reltivos ao período de junho e julho de 2021 para compreender melhor se dados como localidade e tranporte podem interferir nos valores finais de venda dos produtos. Além de ajudar a elaborar meios para diminuição de custos de transporte. Esses dados estão disponíveis no Portal Brasileiro de Dados Abertos - https://dados.gov.br.
 
 ## **Conhecendo os dados**
 Na etapa seguinte partimos para a importação das bibliotecas e em uma análise de que tipo de dados tínhamos para lidar.
