@@ -1,5 +1,5 @@
 
-# <p align="center"> Projeto Módulo 04 - Grupo 08 
+# <p align="center"> Projeto Módulo 04: Pandas notebook - Grupo 08 
 
 ## <p align="center"> Data Analytics - Turma 12 - Resilia
   
