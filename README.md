@@ -45,11 +45,8 @@ A ANP mantém o Banco de Dados de Exploração e Produção (BDEP), onde são pu
 ![anp](https://github.com/Brunoka02/Projeto_4/blob/main/Anp-logo-3menor.png)
 
 ### **Objetivo da análise**
-Esta análise tem como objetivo observar a variação de preços de venda de combustíveis reltivos ao período de junho e julho de 2021 para compreender melhor se dados como localidade e tranporte podem interferir nos valores finais de venda dos produtos. Além de ajudar a elaborar meios para diminuição de custos de transporte.
+Esta análise tem como objetivo observar a variação de preços de venda de combustíveis reltivos ao período de junho e julho de 2021 para compreender melhor se dados como localidade e tranporte podem interferir nos valores finais de venda dos produtos. Além de ajudar a elaborar meios para diminuição de custos de transporte. Esses dados estão disponíveis no Portal Brasileiro de Dados Abertos - https://dados.gov.br/anp.
 
-### **Série histórica**
-Uma série histórica é uma seqüência de dados obtidos em intervalos regulares de tempo durante um período específico. Para essa análise exploratória, assim como solicitado pelo cliente, vamos utilizar as séries de junho e julho de 2021 do preço de venda de gasolina e etanol no Brasil. Esses dados estão disponíveis no Portal Brasileiro de Dados Abertos - https://dados.gov.br/anp.
-  
 ## **Conhecendo os dados**
 Na etapa seguinte partimos para a importação das bibliotecas e em uma análise de que tipo de dados tínhamos para lidar.
 
@@ -65,9 +62,9 @@ Conhecemos também os tipos de dados contidos nos datasets
 display(junho_21.dtypes)
 ```
 
-
 ## **Análise Exploratória e limpeza/correção de dados**  
-Na análise exploratória foram concatenados os dois datasets para que fosse possível analisar o acumulado dos valores referentes aos dois meses apresentados.
+Foram concatenados os dois datasets para que fosse possível unificar os valores referentes aos dois meses apresentados. 
+Em seguida realizada a análise exploratória e limpeza de dados.  
     
 ![import12](https://github.com/Brunoka02/Projeto_4/blob/main/12.png)
 
@@ -76,15 +73,31 @@ Além da correção do valor dos indices após a concatenação
 ![import1](https://github.com/Brunoka02/Projeto_4/blob/main/13.png)
  
 Conversão de tipos do dataset
-  
-![import14](  https://github.com/Brunoka02/Projeto_4/blob/main/14.png)
+
+![import1](https://github.com/Brunoka02/Projeto_4/blob/main/18.png)
+
+![import1](https://github.com/Brunoka02/Projeto_4/blob/main/19.png)
   
 ## **Análise dos dados a partir das questões solicitadas**
+Nesta etapa enfim fizemos a análise dos dados a partir das questões seguintes e de mais duas adicionadas pela equipe.
   
-![import17](  https://github.com/Brunoka02/Projeto_4/blob/main/17.png)
+* Como se comportaram o preço dos combustíveis durante os dois meses
+citados? Os valores do etanol e da gasolina tiveram uma tendência de
+queda ou diminuição?
+* Qual o preço médio da gasolina e do etanol nesses dois meses?
+* Quais os 5 estados com o preço médio da gasolina e do etanol mais
+caros?
+* Qual o preço médio da gasolina e do etanol por estado?
+* Qual o município que possui o menor preço para a gasolina e para o
+etanol?
+* Qual o município que possui o maior preço para a gasolina e para o
+etanol?
+* Qual a região que possui o maior valor médio da gasolina?
+* Qual a região que possui o menor valor médio do etanol?
+* Há alguma correlação entre o valor do combustível (gasolina e etanol) e a
+região onde ele é vendido?
+* Há alguma correlação entre o valor do combustível (gasolina e etanol) e a
+bandeira que vende ele?
+
+A análise completa pode ser encontrada também no [notebook](https://colab.research.google.com/drive/1VQKz_G_0E1aWVDdx6PJsTLT10oMhsRE6#scrollTo=XtYjHHVm_Cha) rodando todas as células em sequência.
   
-
-  
-
-
-## **Conclusão**
