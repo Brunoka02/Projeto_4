@@ -30,7 +30,7 @@ A fonte de dados utilizada foi o Portal Brasileiro de Dados Abertos, da Base de 
 
 [Fernanda Oliveira](https://github.com/FernandaBz)  
 
-[Reinaldo](https://github.com/reinaldos)
+[Reinaldo Sousa](https://github.com/reinaldos)
 
   
 ## Contextualização 
