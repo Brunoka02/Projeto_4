@@ -30,8 +30,6 @@ A fonte de dados utilizada foi o Portal Brasileiro de Dados Abertos, da Base de 
 
 [Fernanda Oliveira](https://github.com/FernandaBz)  
 
-[Jonatas]
-
 [Reinaldo](https://github.com/reinaldos)
 
   
@@ -51,3 +49,12 @@ Esta análise tem como objetivo observar a variação de preços de venda de com
 
 ### **Série histórica**
 Uma série histórica é uma seqüência de dados obtidos em intervalos regulares de tempo durante um período específico. Para essa análise exploratória, assim como solicitado pelo cliente, vamos utilizar as séries de junho e julho de 2021 do preço de venda de gasolina e etanol no Brasil. Esses dados estão disponíveis no Portal Brasileiro de Dados Abertos - https://dados.gov.br/anp.
+  
+## Conhecendo os dados
+Na etapa seguinte partimos para a importação das bibliotecas e em uma análise de que tipo de dados tínhamos para lidar.
+![import](  
+  
+##Análise Exploratória e limpeza/correção de dados  
+  
+##Análise dos dados a partir das questões solicitadas
+
