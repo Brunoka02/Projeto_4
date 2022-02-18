@@ -50,11 +50,43 @@ Esta análise tem como objetivo observar a variação de preços de venda de com
 ### **Série histórica**
 Uma série histórica é uma seqüência de dados obtidos em intervalos regulares de tempo durante um período específico. Para essa análise exploratória, assim como solicitado pelo cliente, vamos utilizar as séries de junho e julho de 2021 do preço de venda de gasolina e etanol no Brasil. Esses dados estão disponíveis no Portal Brasileiro de Dados Abertos - https://dados.gov.br/anp.
   
-## Conhecendo os dados
+## **Conhecendo os dados**
 Na etapa seguinte partimos para a importação das bibliotecas e em uma análise de que tipo de dados tínhamos para lidar.
-![import](  
-  
-##Análise Exploratória e limpeza/correção de dados  
-  
-##Análise dos dados a partir das questões solicitadas
 
+![import1](https://github.com/Brunoka02/Projeto_4/blob/main/10.png)
+
+Cálculo do percentual de dados faltantes dos datasets
+```
+(junho_21.isnull().sum() / junho_21.shape[0]).sort_values(ascending=False)
+```
+
+Conhecemos também os tipos de dados contidos nos datasets
+```
+display(junho_21.dtypes)
+```
+
+
+## **Análise Exploratória e limpeza/correção de dados**  
+Na análise exploratória foram concatenados os dois datasets para que fosse possível analisar o acumulado dos valores referentes aos dois meses apresentados.
+    
+![import1](https://github.com/Brunoka02/Projeto_4/blob/main/12.png)
+
+Além da correção do valor dos indices após a concatenação  
+  
+![import1](https://github.com/Brunoka02/Projeto_4/blob/main/13.png)
+ 
+Conversão de tipos do dataset
+  
+![import1](  https://github.com/Brunoka02/Projeto_4/blob/main/14.png)
+  
+![import1](  https://github.com/Brunoka02/Projeto_4/blob/main/15.png)
+   
+![import1]( https://github.com/Brunoka02/Projeto_4/blob/main/16.png)
+  
+![import1](  https://github.com/Brunoka02/Projeto_4/blob/main/17.png)
+  
+
+  
+## **Análise dos dados a partir das questões solicitadas**
+
+## **Conclusão**
