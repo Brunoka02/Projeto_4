@@ -70,7 +70,7 @@ Em seguida realizada a análise exploratória e limpeza de dados.
 
 Além da correção do valor dos indices após a concatenação  
   
-![import1](https://github.com/Brunoka02/Projeto_4/blob/main/13.png)
+![import1](https://github.com/Brunoka02/Projeto_4/blob/main/20.png)
  
 Conversão de tipos do dataset
 
