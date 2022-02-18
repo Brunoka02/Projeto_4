@@ -53,7 +53,7 @@ Uma série histórica é uma seqüência de dados obtidos em intervalos regulare
 ## **Conhecendo os dados**
 Na etapa seguinte partimos para a importação das bibliotecas e em uma análise de que tipo de dados tínhamos para lidar.
 
-![import1](https://github.com/Brunoka02/Projeto_4/blob/main/10.png)
+![import10](https://github.com/Brunoka02/Projeto_4/blob/main/10.png)
 
 Cálculo do percentual de dados faltantes dos datasets
 ```
@@ -69,7 +69,7 @@ display(junho_21.dtypes)
 ## **Análise Exploratória e limpeza/correção de dados**  
 Na análise exploratória foram concatenados os dois datasets para que fosse possível analisar o acumulado dos valores referentes aos dois meses apresentados.
     
-![import1](https://github.com/Brunoka02/Projeto_4/blob/main/12.png)
+![import12](https://github.com/Brunoka02/Projeto_4/blob/main/12.png)
 
 Além da correção do valor dos indices após a concatenação  
   
@@ -77,16 +77,14 @@ Além da correção do valor dos indices após a concatenação
  
 Conversão de tipos do dataset
   
-![import1](  https://github.com/Brunoka02/Projeto_4/blob/main/14.png)
+![import14](  https://github.com/Brunoka02/Projeto_4/blob/main/14.png)
   
-![import1](  https://github.com/Brunoka02/Projeto_4/blob/main/15.png)
-   
-![import1]( https://github.com/Brunoka02/Projeto_4/blob/main/16.png)
+## **Análise dos dados a partir das questões solicitadas**
   
-![import1](  https://github.com/Brunoka02/Projeto_4/blob/main/17.png)
+![import17](  https://github.com/Brunoka02/Projeto_4/blob/main/17.png)
   
 
   
-## **Análise dos dados a partir das questões solicitadas**
+
 
 ## **Conclusão**
