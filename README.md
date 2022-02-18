@@ -19,7 +19,8 @@ A fonte de dados utilizada foi o Portal Brasileiro de Dados Abertos, da Base de 
       
   * Python
   * Google Colab 
-
+  * Markdown
+  * Github
 
 ## **Nossa Equipe**
 
