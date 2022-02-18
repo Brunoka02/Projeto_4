@@ -16,8 +16,7 @@ A fonte de dados utilizada foi o Portal Brasileiro de Dados Abertos, da Base de 
   
   ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![markdowm](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VQKz_G_0E1aWVDdx6PJsTLT10oMhsRE6)
-    
+      
   * Python
   * Google Colab 
 
@@ -99,5 +98,5 @@ região onde ele é vendido?
 * Há alguma correlação entre o valor do combustível (gasolina e etanol) e a
 bandeira que vende ele?
 
-A análise completa pode ser encontrada também no [notebook](https://colab.research.google.com/drive/1VQKz_G_0E1aWVDdx6PJsTLT10oMhsRE6#scrollTo=XtYjHHVm_Cha) rodando todas as células em sequência.
+A análise completa pode ser encontrada também no notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VQKz_G_0E1aWVDdx6PJsTLT10oMhsRE6#scrollTo=XtYjHHVm_Cha) rodando todas as células em sequência.
   
